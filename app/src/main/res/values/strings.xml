@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RetrofitOkhttpRxjavaTest</string>
+
+    <string name="connect_fail">连接失败</string>
+    <string name="getTraslate">get Traslate</string>
+    <string name="getTraslate1">get Traslate 1</string>
+    <string name="getTraslate2">get Traslate 2</string>
+    <string name="getTraslate3">get Traslate 3</string>
+    <string name="getTraslate4">get Traslate 4</string>
+    <string name="getToken">get Token</string>
+    <string name="getToken1">get Token 1</string>
+    <string name="getToken2">get Token 2</string>
+</resources>
