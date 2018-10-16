@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
 import dg.bin.com.retrofitokhttprxjavatest.retrofit.activity.RetrofitActivity;
+import dg.bin.com.retrofitokhttprxjavatest.rxjava.RxjavaActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -13,6 +14,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        startActivity(new Intent(this, RetrofitActivity.class));
+        startActivity(new Intent(this, RxjavaActivity.class));
     }
 }
